@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://misloctrnr7h"]
+
+[node name="Node2D" type="Node2D" unique_id=217123299]
+
+[node name="Label" type="Label" parent="." unique_id=1942841261]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "LEVEL 2 LOADED!"
